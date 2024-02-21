@@ -1,36 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Welcome to DAY PLANNER!
 
-## Getting Started
+Manage your time effectively with our intuitive day planner web app. Whether you're a busy professional, a student juggling multiple deadlines, or simply someone who wants to stay organized, our app has got you covered.
 
-First, run the development server:
+Key Features:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. **Create Tasks:** Easily create tasks with customizable options including color-coding, start date, and end date. Whether it's a meeting, assignment, or personal errand, you can tailor each task to suit your needs.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. **Calendar Views:** Visualize your schedule with ease using our calendar views. Choose between day, month, and year views to get a comprehensive overview of your upcoming events and tasks. Whether you need to plan your day, track progress over the month, or set long-term goals, our app provides the flexibility you need.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. **User-Friendly Interface:** Our user interface is designed with simplicity in mind, making it easy for users of all levels to navigate and utilize the app's features without any hassle.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+4. **Customization Options:** Personalize your experience by customizing the app to match your preferences. From choosing color themes to adjusting display settings, make the app your own for a seamless planning experience.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Stay organized, stay productive, and make the most out of your time with DAY PLANNER. Start planning your days effectively today!

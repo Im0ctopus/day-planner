@@ -28,10 +28,11 @@ const Nav = () => {
   return (
     <>
       {!session || !session?.user ? (
-        <nav className="flex flex-row justify-end px-2 lg:px-10 items-center h-20 backdrop-blur-sm bg-black/20">
+        <nav className="flex flex-row justify-end px-2 lg:px-10 items-center h-20 backdrop-blur-sm bg-black/20 gap-2">
           <Button variant={'secondary'} onClick={() => signIn('google')}>
             Sign In
           </Button>
+          <ModeToggle />
         </nav>
       ) : (
         <nav

@@ -73,7 +73,7 @@ const Form: FC<TForm> = ({ setIsOpen, getTasks }) => {
     getColors()
   }, [])
 
-  const handleSubmit = (e: FormEvent<HTMLFormElement>) => {
+  const handleSubmit = async (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault()
     handleCreateTask(
       title,
@@ -85,7 +85,7 @@ const Form: FC<TForm> = ({ setIsOpen, getTasks }) => {
       selectedColor
     )
     setIsOpen(false)
-    getTasks()
+    await getTasks()
     toast('New task has been created!')
   }
 

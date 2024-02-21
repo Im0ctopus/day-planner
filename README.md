@@ -1,4 +1,4 @@
-Welcome to DAY PLANNER!
+Welcome to [DAY PLANNER](https://day-planner-rose.vercel.app/)!
 
 Manage your time effectively with our intuitive day planner web app. Whether you're a busy professional, a student juggling multiple deadlines, or simply someone who wants to stay organized, our app has got you covered.
 
@@ -12,4 +12,4 @@ Key Features:
 
 4. **Customization Options:** Personalize your experience by customizing the app to match your preferences. From choosing color themes to adjusting display settings, make the app your own for a seamless planning experience.
 
-Stay organized, stay productive, and make the most out of your time with DAY PLANNER. Start planning your days effectively today!
+Stay organized, stay productive, and make the most out of your time with [DAY PLANNER](https://day-planner-rose.vercel.app/). Start planning your days effectively today!

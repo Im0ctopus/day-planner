@@ -42,7 +42,6 @@ const Calendar = () => {
     const temp: any = await handleGetTasks(session.data?.user?.email!)
     setTasks(temp!)
     setLoading(false)
-    console.log(temp)
   }
 
   useEffect(() => {
